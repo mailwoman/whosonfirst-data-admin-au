@@ -685,9 +685,8 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":85632495,
-            "empire_id":136253039,
-            "region_id":85672279
+            "dependency_id":1175747295,
+            "empire_id":136253039
         }
     ],
     "wof:id":1175611263,
